@@ -30,6 +30,6 @@ BloxNShop Limited was founded on February 14, 2024, by **Jerry Lee (Jelly)** and
 Please contact [@apollotastic ](https://discord.com/users/831763338509549578)if you find any errors or have any questions about this website.
 {% endhint %}
 
-### Jump right in
+### Get started!
 
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Getting Started</strong></td><td>Create your first site</td><td></td><td></td><td><a href="broken-reference">Broken link</a></td></tr><tr><td><strong>Basics</strong></td><td>Learn the basics of GitBook</td><td></td><td></td><td><a href="broken-reference">Broken link</a></td></tr><tr><td><strong>Publish your docs</strong></td><td>Share your docs online</td><td></td><td></td><td><a href="broken-reference">Broken link</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Staff Information</strong></td><td>Information for staff members of BloxNShop.</td><td></td><td></td><td><a href="broken-reference">Broken link</a></td></tr><tr><td><strong>Managemen Information</strong></td><td>Information for management members of BloxNShop.</td><td></td><td></td><td><a href="broken-reference">Broken link</a></td></tr><tr><td>FAQ</td><td>Frequently asked questions.</td><td></td><td></td><td><a href="faq.md">faq.md</a></td></tr></tbody></table>
