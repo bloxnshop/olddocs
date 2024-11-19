@@ -1,11 +1,11 @@
 ---
 icon: hand-wave
-cover: .gitbook/assets/Docs image.png
+cover: .gitbook/assets/20241016_012916_0000.png
 coverY: 0
 layout:
   cover:
     visible: true
-    size: full
+    size: hero
   title:
     visible: true
   description:
