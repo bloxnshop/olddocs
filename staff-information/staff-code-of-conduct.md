@@ -8,12 +8,24 @@ description: >-
 
 The following Code of Conduct is only eligible to on-duty staff members. Only users ranked **Junior Store Colleague+** are considered staff members. Anyone ranked below must either [purchase an higher rank](https://www.roblox.com/games/85187706204057) or [attend an training](https://www.roblox.com/games/117919086952299/BloxNShop-Staff-Training-Center).&#x20;
 
-* &#x20;You must use a realistic skin tone while on duty; the color white is accepted as an exception. -
-* &#x20;You must not use unrealistic accessories or packages while on duty, including any forms of "shoulder pals", antlers, hammers, animal ears, and halos.&#x20;
-* You must not use any forms of 3D clothing that may cover the majority of the staff uniform.&#x20;
-* &#x20;You must exercise the use of grammar on duty while communicating with others, unless when you're in team chat.&#x20;
-* You must not be idle or tabbed out while having your lane kept open. If you wish to deal with other matters, please close the lane that you are currently operating.&#x20;
-* You must not disrespect the customers at all times and must respond to every concern of them, whether it be through the use of Google Translate or any other communication tools.&#x20;
-* You must ensure that the doors of the employee-only areas are completely closed before walking away.
+### General Guidelines
 
-Violators will be issued a formal warning without prior notice. If you have reached the maximum amount of 4 warnings, you will be suspended and will have to wait for a week before attending a re-training.
+* &#x20;You must wear uniform whilst on-duty.
+* You must remain professional and respectful at all times.
+* You are not required to use grammar.
+* You do not have to complete an activity quota.
+* You must help an customer at all times.
+* You cannot troll whilst on-duty.
+* Exploiting and glitching is prohibited!
+* You are not allowed to advertise BloxNShop in a place where advertising is not allowed.
+
+### Uniform Regulations
+
+* You cannot wear 3d clothing on your uniform that blocks it from being visible.
+* You are allowed to wear anything as long as its appropriate and the uniform is visible.
+
+### Moderation
+
+* You cannot issue warnings to a user if it doesnt have a valid reason.
+
+Violators will be issued a formal warning and can be fired once they reach 3 warnings. If they continue to get fired they may face a blacklist from the rank centre and application centre.
