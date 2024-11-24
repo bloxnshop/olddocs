@@ -72,6 +72,13 @@ This counts as violating the [Roblox Community Standards](https://en.help.roblox
 
 1. Report them immidiatly to [Roblox Support](https://www.roblox.com/support).&#x20;
 
+### Glitching
+
+This counts if the user has somehow gotten access to an restricted area without permission.
+
+1. Reset the user.
+2. If they keep on doing it, report them in [#reports](https://discord.com/channels/1188319939719856209/1211193876266622976).
+
 ### Exploiting and Hacking
 
 This counts as using an 3rd party program that changes the gameplay of your Roblox Client.

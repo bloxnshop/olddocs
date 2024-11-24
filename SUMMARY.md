@@ -1,7 +1,9 @@
 # Table of contents
 
 * [Welcome](README.md)
+* [Appeals](appeals.md)
 * [FAQ](faq.md)
+* [Contacts](contacts.md)
 
 ## Staff Information
 
