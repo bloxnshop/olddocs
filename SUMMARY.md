@@ -9,3 +9,7 @@
 
 * [Staff Code of Conduct](staff-information/staff-code-of-conduct.md)
 * [Moderation Guide](staff-information/moderation-guide.md)
+* [Fire Guide](staff-information/fire-guide.md)
+* [Rank Structure](staff-information/rank-structure.md)
+* [Sample messages](staff-information/sample-messages.md)
+* [Management Departments](staff-information/management-departments.md)
