@@ -8,67 +8,67 @@ description: This is the BloxNShop rank structure.
 The security and point system will be added in V2.
 {% endhint %}
 
-> Normal Rank
+### Normal Rank
 
 Member | BloxNShop Customers \
 PSP | Partnership \
 N | Noted Customer\
 B | Booster (Game Rank)
 
-\[Pass the application to rank up]&#x20;
+_\[Pass the application to rank up]_&#x20;
 
-> Trainee Rank
+### Trainees
 
 2A | Trainee Store Colleagues \
 2B | Trainee Security
 
-\[Pass training to rank up]&#x20;
+_\[Pass training to rank up]_&#x20;
 
-> Low Rank
+### Low Rank
 
 3A | Junior Store Colleagues \
 3B | Junior Security
 
-\[Earn 100 points to rank up]&#x20;
+_\[Earn 100 points to rank up]_&#x20;
 
 4A | Store Colleagues \
 4B | Security
 
-\[Earn 300 points to rank up]&#x20;
+_\[Earn 300 points to rank up]_&#x20;
 
 5A | Senior Store Colleagues \
 5B | Senior Security
 
-\[Earn 600 points to rank up]&#x20;
+_\[Earn 600 points to rank up]_&#x20;
 
 6 | Management Intern
 
-\[Complete internship to rank up] (minimum rank to host shifts/trainings and training)
+_\[Complete internship to rank up] (minimum rank to host shifts/trainings and training)_
 
-> Management
+### Management
 
 &#x20;7 | Junior Management
 
-\[Rank up by completing 6 weekly activity requirements]&#x20;
+_\[Rank up by completing 6 weekly activity requirements]_&#x20;
 
 8 | Senior Management
 
-\[Rank up by completing 10 weekly activity requirements]&#x20;
+_\[Rank up by completing 10 weekly activity requirements]_&#x20;
 
 9 | Store Manager
 
-\[Rank up by completing 13 weekly activity requirements]&#x20;
+_\[Rank up by completing 13 weekly activity requirements]_&#x20;
 
 10 | Intern Corporate
 
-\[Get promoted]&#x20;
+_\[Get promoted]_&#x20;
 
-> Corporate
+### Corporate
 
 11 | Corporate \
 HOD | Head of Department
 
-> Ownership
+### Ownership
 
 Dev(A)/(B) | Development Assistance \
 Dev | Developers \
