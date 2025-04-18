@@ -2,9 +2,10 @@
 description: >-
   This guide will help you in understanding how our moderation works in
   BloxNShop.
+icon: siren-on
 ---
 
-# Moderation Guide
+# 2 | Moderation Guide
 
 ## Roblox Moderation
 

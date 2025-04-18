@@ -1,8 +1,9 @@
 ---
 description: These are the departments management can join.
+icon: badge-check
 ---
 
-# Management Departments
+# 8 | Management Departments
 
 ### Training Department
 

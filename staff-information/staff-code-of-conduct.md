@@ -2,9 +2,10 @@
 description: >-
   The Code of Conduct is made to maintain an safe and professional working
   environment.
+icon: gavel
 ---
 
-# Staff Code of Conduct
+# 1 | Staff Code of Conduct
 
 The following Code of Conduct is only eligible to on-duty staff members. Only users ranked **Trainee Store Colleague+** are considered staff members. Anyone ranked below must either [purchase an higher rank](https://www.roblox.com/games/85187706204057) or [pass the staff application](https://www.roblox.com/games/18842770808/BECOME-STAFF-BloxNShop-Application-Center).
 
@@ -14,4 +15,4 @@ The following Code of Conduct is only eligible to on-duty staff members. Only us
 * You must not disrespect the customers at all times and must respond to every concern of them, whether it be through the use of Google Translate or any other communication tools.&#x20;
 * You must ensure that the doors of the employee-only areas are completely closed before walking away.
 
-Violators will be issued a formal warning and can be fired once they reach 3 warnings. If they continue to get fired they may face a blacklist from the rank centre and application centre if the violation is serious.
+Violators will be issued a formal warning and can be fired once they reach **3 warnings**. If they continue to get fired they may face a blacklist from the rank centre and application centre if the violation is serious.

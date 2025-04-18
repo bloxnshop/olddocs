@@ -1,8 +1,9 @@
 ---
 description: This is the BloxNShop rank structure.
+icon: list
 ---
 
-# Rank Structure
+# 7 | Rank Structure
 
 {% hint style="info" %}
 The security and point system will be added in V2.

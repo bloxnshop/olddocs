@@ -1,10 +1,11 @@
 ---
 description: You can use these messages whilst on-duty.
+icon: messages
 ---
 
-# Sample messages
+# 4 | Sample messages
 
-### For MCO (Manual Checkout) Duty
+## For MCO (Manual Checkout) Duty
 
 **Greeting:**\
 `Greetings! Welcome to BloxNShop! My name is (Name). Please scan your item and let me know when you're done!`
@@ -17,7 +18,7 @@ description: You can use these messages whilst on-duty.
 **After Payment and Farewell Message:**\
 `Thanks for shopping with us today! Have a wonderful day!`
 
-### For SCO (Self Checkout) Duty
+## For SCO (Self Checkout) Duty
 
 **Greeting:**\
 `Greetings! Welcome to BloxNShop! Please let me know if you encounter any difficulties with the SCO machine.`
@@ -26,7 +27,7 @@ description: You can use these messages whilst on-duty.
 &#xNAN;_(Optional, If the customer encounters issues while attempting to interact with the PIN pad.)_\
 `Please unequip your product/card and click on the green rectangle/hold E when the prompt shows up on the pinpad.`
 
-### Useful Messages
+## Useful Messages
 
 **When Customer Press Vocovo Bell:**\
 `Hello, my name is (Name). How can I assist you today?`

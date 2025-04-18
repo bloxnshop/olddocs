@@ -1,8 +1,9 @@
 ---
 description: Here is a guide on how to act when there is a fire event.
+icon: fire
 ---
 
-# Fire Guide
+# 6 | Fire Guide
 
 When you notice a fire in the store, please report it to a management in game or report it in ⁠[#staff-assistance](https://discord.com/channels/1188319939719856209/1283071327745609831) if there is nobody available. Then activate the fire alarm. After all of this you will have to follow the procedure:
 
