@@ -5,73 +5,85 @@ icon: list
 
 # 7 | Rank Structure
 
-{% hint style="info" %}
-The security and point system will be added in V2.
-{% endhint %}
-
 ### Normal Rank
 
-Member | BloxNShop Customers \
+Member | BloxNShop Customers\
 PSP | Partnership \
 N | Noted Customer\
 B | Booster (Game Rank)
 
-_\[Pass the application to rank up]_&#x20;
+***
 
 ### Trainees
 
-2A | Trainee Store Colleagues \
-2B | Trainee Security
+2 | Trainee Store Colleagues&#x20;
 
-_\[Pass training to rank up]_&#x20;
+_↳ \[<mark style="color:blue;">Pass the application</mark> to rank up]_&#x20;
+
+***
 
 ### Low Rank
 
-3A | Junior Store Colleagues \
-3B | Junior Security
+3 | Junior Store Colleagues&#x20;
 
-_\[Earn 100 points to rank up]_&#x20;
+_↳ \[<mark style="color:blue;">Pass training</mark> to rank up]_&#x20;
 
-4A | Store Colleagues \
-4B | Security
 
-_\[Earn 300 points to rank up]_&#x20;
 
-5A | Senior Store Colleagues \
-5B | Senior Security
+4 | Store Colleagues&#x20;
 
-_\[Earn 600 points to rank up]_&#x20;
+_↳ \[Earn <mark style="color:blue;">400 points</mark> to rank up]_&#x20;
+
+
+
+5 | Senior Store Colleagues&#x20;
+
+_↳ \[Earn <mark style="color:blue;">800 points</mark> to rank up]_&#x20;
+
+
 
 6 | Management Intern
 
-_\[Complete internship to rank up] (minimum rank to host shifts/trainings and training)_
+_↳ \[Earn <mark style="color:blue;">1400 points</mark> to rank up]_&#x20;
+
+***
 
 ### Management
 
 &#x20;7 | Junior Management
 
-_\[Rank up by completing 6 weekly activity requirements]_&#x20;
+_↳ \[<mark style="color:green;">Complete internship</mark> to rank up]_
+
+
 
 8 | Senior Management
 
-_\[Rank up by completing 10 weekly activity requirements]_&#x20;
+_↳ \[Rank up by completing <mark style="color:green;">6 weekly activity</mark> requirements]_&#x20;
+
+
 
 9 | Store Manager
 
-_\[Rank up by completing 13 weekly activity requirements]_&#x20;
+_↳ \[Rank up by completing <mark style="color:green;">10 weekly activity</mark> requirements]_&#x20;
+
+
 
 10 | Intern Corporate
 
-_\[Get promoted]_&#x20;
+_↳ \[Rank up by completing <mark style="color:green;">13 weekly activity</mark> requirements]_&#x20;
+
+***
 
 ### Corporate
 
 11 | Corporate \
 HOD | Head of Department
 
+***
+
 ### Ownership
 
-Dev(A)/(B) | Development Assistance \
+Dev(A) | Development Assistance \
 Dev | Developers \
 Owners
 

@@ -24,7 +24,7 @@ Welcome to the **BloxNShop Documentation** website. Here you can find all kinds 
 
 ## Introduction of BloxNShop Limited
 
-BloxNShop Limited was founded on February 14, 2024, by **Jerry Lee (Jelly)** and **Edgar Yuen (Fish)**. Our company was established in February 2024 and had its grand opening on May 15, 2024. We are proud to be the first-ever interactive supermarket in the Roblox community of Hong Kong. BloxNShop provides **over 900 products**, including items exclusively available in Asia or Hong Kong, and showcases a unique, stunning, and original design with Hong Kong characteristics.
+BloxNShop Limited was founded on February 14, 2024, by **Jerry Lee (Jelly)** and **Edgar Yuen (Fish)**. Our company was established in February 2024 and had its grand opening on May 15, 2024. We are proud to be the first-ever interactive supermarket in the Roblox community of Hong Kong. BloxNShop provides **over 1000 products**, including items exclusively available in Asia or Hong Kong, and showcases a unique, stunning, and original design with Hong Kong characteristics.
 
 ## **Philosophy** of BloxNShop Limited
 

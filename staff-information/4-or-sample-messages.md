@@ -18,6 +18,8 @@ icon: messages
 **After Payment and Farewell Message:**\
 `Thanks for shopping with us today! Have a wonderful day!`
 
+***
+
 ## For SCO (Self Checkout) Duty
 
 **Greeting:**\
@@ -26,6 +28,8 @@ icon: messages
 **Payment Instructions:**\
 &#xNAN;_(Optional, If the customer encounters issues while attempting to interact with the PIN pad.)_\
 `Please unequip your product/card and click on the green rectangle/hold E when the prompt shows up on the pinpad.`
+
+***
 
 ## Useful Messages
 

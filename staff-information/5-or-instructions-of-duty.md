@@ -67,6 +67,8 @@ After finishing your duty, please log off the manual checkout machine and close 
 {% endstep %}
 {% endstepper %}
 
+***
+
 ## Instructions for Voiding an Order at the Self-Service Checkout
 
 When the customer requests to clear all items / No one is operating the Self-Service Checkouts, press the **Void Order** button.
