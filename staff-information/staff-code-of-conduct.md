@@ -36,6 +36,11 @@ Employee Area Protocol
 
 Ensure that the doors to employee-only areas are fully closed before leaving.
 
+Trolling
+
+
+You must not use any means to disrupt the operation of store machines or disturb customers and staff.
+
 ***
 
 Violators will be issued a formal warning and can be fired once they reach **3 warnings**. If they continue to get fired, they may face a **blacklist** from the rank centre and application centre if the violation is serious.
