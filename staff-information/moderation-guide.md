@@ -86,6 +86,8 @@ This counts as using an 3rd party program that changes the gameplay of your Robl
 
 1. Report them instantly in [#reports](https://discord.com/channels/1188319939719856209/1211193876266622976).&#x20;
 
+***
+
 ## Discord Moderation
 
 Moderation in our [community server](https://discord.gg/KKPbJjyGtE).

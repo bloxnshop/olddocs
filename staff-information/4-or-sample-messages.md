@@ -7,52 +7,90 @@ icon: messages
 
 ## For MCO (Manual Checkout) Duty
 
-**Greeting:**\
-`Greetings! Welcome to BloxNShop! My name is (Name). Please scan your item and let me know when you're done!`
+### **Greeting**
 
-**Price Information and Payment Instruction:**\
-`They are priced at $ (Price shown on the monitor). Please continue on the pinpad.`\
-&#xNAN;_(Optional, If the customer encounters issues while attempting to interact with the PIN pad)_\
-`Please unequip your product/card and click on the green rectangle.`
+```
+Greetings! Welcome to BloxNShop! My name is (Name). Please scan your item and let me know when you're done!
+```
 
-**After Payment and Farewell Message:**\
-`Thanks for shopping with us today! Have a wonderful day!`
+### **Price Information:**
+
+```
+They are priced at $[Price shown on the monitor]. Would you like to pay with Card or Cash?
+```
+
+### **Payment Instruction:**
+
+```
+Please continue on the pinpad!
+Please insert cash! (For cash)
+```
+
+**(**_Optional, If the customer encounters issues while attempting to interact with the PIN pad)_
+
+```
+Please unequip your product/card and click on the green rectangle.
+```
+
+### **After Payment and Farewell Message**
+
+```
+Thanks for shopping with us today! Have a wonderful day!
+```
 
 ***
 
 ## For SCO (Self Checkout) Duty
 
-**Greeting:**\
-`Greetings! Welcome to BloxNShop! Please let me know if you encounter any difficulties with the SCO machine.`
+### **Greeting**
 
-**Payment Instructions:**\
-&#xNAN;_(Optional, If the customer encounters issues while attempting to interact with the PIN pad.)_\
-`Please unequip your product/card and click on the green rectangle/hold E when the prompt shows up on the pinpad.`
+```
+Greetings! Welcome to BloxNShop! Please let me know if you encounter any difficulties with the SCO machine.
+```
+
+### **Payment Instructions**
+
+_(Optional, If the customer encounters issues while attempting to interact with the PIN pad.)_
+
+```
+Please unequip your product/card and click on the green rectangle/hold E when the prompt shows up on the pinpad.
+```
 
 ***
 
 ## Useful Messages
 
-**When Customer Press Vocovo Bell:**\
-`Hello, my name is (Name). How can I assist you today?`
+### **When customer request any assist**
 
-**When Customer Ask: how to become a Staff Member:**\
-`Please join our Roblox Group and head to the Application Center.`\
-\
-`After that, you will be ranked Trainee, and you have to attend our Training Session to promote to staff!`\
-\
-`Or simply you could buy a rank!`
+```
+Hello, my name is (Name). How can I assist you today?
+```
 
-**When Customer Ask: how to play this game**:\
-`This is a supermarket game! To make a purchase, simply click on the items you want!`
+### **When customer Ask: how to become a Staff Member**
 
-**When Customer Ask: What is BloxNShop?:**\
-`BloxNShop is the first and the only supermarket in the HK Roblox community, offering a wide variety of high-quality products and services all in one convenient location!`
+```
+Please join our Roblox Group and head to the Application Center.
+After that, you will be ranked Trainee, and you have to attend our Training Session to promote to staff!
+Or simply you could buy a rank!
+```
 
-**When Customer Ask About Training Session, Staffing Details etc**:\
-`Join our DC Server for more information!`
+### **When customer ask: How to play this game**
 
+```
+This is a supermarket game! To make a purchase, simply press "E" on the items you want!
+```
 
+### **When customer Ask: What is BloxNShop?**
+
+```
+BloxNShop is the first and the only supermarket in the HK Roblox community, offering a wide variety of high-quality products and services all in one convenient location!
+```
+
+### **When customer ask about Training Session, Staffing Details etc**
+
+```
+Join our DC Server for more information. Link in the game description!
+```
 
 
 
