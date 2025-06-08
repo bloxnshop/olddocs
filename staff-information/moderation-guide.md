@@ -104,7 +104,7 @@ Moderation in our [community server](https://discord.gg/KKPbJjyGtE).
 
 If you **do not have the permission to moderate** (please note that only management members can moderate), then please report the user in [#reports](https://discord.com/channels/1188319939719856209/1211193876266622976).
 
-Please use **BloxNBot for moderation!**
+Please use **Sapphire for moderation!**
 
 ### Spamming
 
