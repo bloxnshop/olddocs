@@ -1,15 +1,15 @@
 ---
-description: Here is a guide on how to act when there is a fire event.
+description: Here is a guide on how to act when there is a fire event / fire drill.
 icon: fire
 ---
 
 # 6 | Fire Guide
 
-When you notice a fire in the store, please report it to a management in game or report it in ⁠[#staff-assistance](https://discord.com/channels/1188319939719856209/1283071327745609831) if there is nobody available. Then activate the fire alarm. After all of this you will have to follow the procedure:
+The fire event / fire drill will be randomly hosted by the owners, and the fire alarm will be activated by them. When the program starts, please follow these procedures:
 
-1. Close every self checkouts and manual checkouts.&#x20;
-2. Evacuate everyone.&#x20;
-3. Check if there is anyone at the toilets, if yes ask them to evacuate.&#x20;
-4. Do a little tour and make sure there is nobody.
+* Step 1: Close all self-checkouts and manual checkouts.
+* Step 2: Evacuate everyone from the building.
+* Step 3: Check the restrooms to ensure there is nobody inside; if there is, ask them to evacuate.
+* Step 4: Conduct a quick sweep of the area to make sure no one is left behind.
 
-After you have done all of this, please go outside and join management+. If you notice a fire and don't report it, punishments might be given as it's dangerous for our customers. And if you are not following the procedure, punishment will be given. **If it is getting dangerous inside stop the procedure and head outside immidiatly to wait for the fire department.**
+After completing these steps, please go outside and meet with management. Failure to follow this procedure will result in punishment.

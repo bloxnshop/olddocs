@@ -15,5 +15,5 @@ icon: question
   &#xNAN;_↳_ You must update your roles by going to [this link](https://blox.link/dashboard/user/verifications) or using the `/update` command in our Discord server.
 * **Is BloxNShop for sale?**\
   &#xNAN;_↳_ No.
-* **Can I buy management ranks?**\
+* **Can I buy management or above ranks?**\
   &#xNAN;_↳_ No.

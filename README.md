@@ -1,6 +1,6 @@
 ---
 icon: hand-wave
-cover: .gitbook/assets/10.png
+cover: .gitbook/assets/bns cover.png
 coverY: 0
 layout:
   cover:

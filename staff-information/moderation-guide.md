@@ -1,148 +1,95 @@
 ---
-description: >-
-  This guide will help you in understanding how our moderation works in
-  BloxNShop.
-icon: siren-on
+description: This guide will help you understand how our moderation works in BloxNShop.
+icon: gavel
 ---
 
 # 2 | Moderation Guide
 
-## Roblox Moderation
+## Game Moderation
 
 Moderation in [any of our games on Roblox](https://www.roblox.com/communities/33854030/BloxNShop-Limited#!/about).
 
-**Definitions:**
+## **Definitions**
 
-* **Informal warning:** Tell them to stop or they will face a formal warning in the chat.
+* **Informal warning:** Notify the user to stop their behavior, or they will receive a formal warning.
 * **Formal warning:** Warning with the `:warn [user] [reason]` command in Roblox.
 
-If you **do not have the permission to ban** (please note that only management members can ban), then please report the user in [#reports](https://discord.com/channels/1188319939719856209/1211193876266622976).
+All staff members (Trainee Store Colleague above), have the authority to issue warnings to customers who violate the game moderation rules. Only Management or above have the authority to server ban a user after they have received three warnings.
 
-In the **Training Centre** only the host and trainers are allowed to moderate.
+If a user receives three warnings and there are **no management members or above on duty**, please request assistance in the [#staff-assistance](https://discord.com/channels/1188319939719856209/1283071327745609831) channel.
 
-### Disrespectful behaviour
-
-This counts as slur words, negatvie messages and hate against any community member.
-
-1. Give them an informal warning.
-2. Give them an formal warning (x3 times)
-3. Serverban them once they have reached 3 warnings.&#x20;
-
-### Distruptive behaviour
-
-This counts as distrupting a shift briefing or a training session when you are not allowed to talk or only with the !PTS command.
-
-1. Give them an informal warning.
-2. Give them an formal warning (x3 times)
-3. Serverban them once they have reached 3 warnings.
-
-### Innapropriate behaviour
-
-This counts as harassment and any innapropriate behaviour towards a player.
-
-1. Give them an informal warning.
-2. Give them an formal warning (x3 times)
-3. Serverban them once they have reached 3 warnings.
-
-### Innapropriate clothing
-
-This counts as any clothing that is innapropriate (contains an innapropriate image, a slur or anything violating the [Roblox Terms of Use](https://en.help.roblox.com/hc/en-us/articles/115004647846-Roblox-Terms-of-Use))
-
-1. Report them with the [in-game avatar report function](https://en.help.roblox.com/hc/en-us/articles/203312410-How-to-Report-Rule-Violations).
-2. Tell them to change clothes.
-3. Give them an formal warning (x3 times)
-4. Serverban them once they have reached 3 warnings.
-
-### Spamming
-
-This counts as sending the same message continiously flooding the chat.
-
-1. Give them an informal warning.
-2. Give them an formal warning and mute them with the `:mute [user] Spamming.` command (x3 times)
-3. Serverban them once they have reached 3 warnings.
-
-### Violating the Roblox Terms of Use
-
-This counts as violating the [Roblox Terms of Use](https://en.help.roblox.com/hc/en-us/articles/115004647846-Roblox-Terms-of-Use).
-
-1. Report them immidiatly to [Roblox Support](https://www.roblox.com/support).
-
-### Violating the Roblox Community Standards
-
-This counts as violating the [Roblox Community Standards](https://en.help.roblox.com/hc/en-us/articles/203313410-Roblox-Community-Standards).
-
-1. Report them immidiatly to [Roblox Support](https://www.roblox.com/support).&#x20;
-
-### Glitching
-
-This counts if the user has somehow gotten access to an restricted area without permission.
-
-1. Reset the user.
-2. If they keep on doing it, report them in [#reports](https://discord.com/channels/1188319939719856209/1211193876266622976).
-
-### Exploiting and Hacking
-
-This counts as using an 3rd party program that changes the gameplay of your Roblox Client.
-
-1. Report them instantly in [#reports](https://discord.com/channels/1188319939719856209/1211193876266622976).&#x20;
+In the Training Centre, only the host and trainers are permitted to moderate.
 
 ***
 
-## Discord Moderation
+## Disrespectful behaviour
 
-Moderation in our [community server](https://discord.gg/KKPbJjyGtE).
+Includes the use of slurs, negative messages/voice chat, and any form of hate against community members.
 
-#### Definitions:
+* Step 1: Issue an informal warning.
+* Step 2: Issue a formal warning (up to 3 times).
+* Step 3: Server ban the user after reaching 3 formal warnings.
 
-* **Informal warning:** Tell them to stop or they will face a formal warning in the chat.
-* **Formal warning:** Warning with the `:warn [user] [reason]` command in Roblox.
+## Disruptive behaviour
 
-#### Punishments:
+Involves interrupting the store's operation, which includes stealing and trolling, particularly at the EAS gate or within the store facility.
 
-* 1st Warning: Mute for 3 hours.
-* 2nd Warning: Mute for 1 week.
+* Step 1: Issue an informal warning.
+* Step 2: Issue a formal warning (up to 3 times).
+* Step 3: Server ban the user after reaching 3 formal warnings.
 
-If you **do not have the permission to moderate** (please note that only management members can moderate), then please report the user in [#reports](https://discord.com/channels/1188319939719856209/1211193876266622976).
+## Inappropriate behaviour
 
-Please use **Sapphire for moderation!**
+Covers harassment or any inappropriate actions towards other customers/staffs.
 
-### Spamming
+* Step 1: Issue an informal warning.
+* Step 2: Issue a formal warning (up to 3 times).
+* Step 3: Server ban the user after reaching 3 formal warnings.
 
-This counts as sending the same message continiously flooding the chat.
+## Inappropriate clothing
 
-1. Give them an informal warning.
-2. Give them an [formal warning](moderation-guide.md#punishments).
+Includes any clothing that contains inappropriate images, slurs, or violates [Roblox Terms of Use](https://en.help.roblox.com/hc/en-us/articles/115004647846-Roblox-Terms-of-Use).
 
-### Innapropriate behaviour
+* Step 1: Report the user using the [in-game avatar report function](https://en.help.roblox.com/hc/en-us/articles/203312410-How-to-Report-Rule-Violations).
+* Step 2: Instruct them to change their clothes.
+* Step 3: Issue a formal warning (up to 3 times).
+* Step 4: Server ban the user after reaching 3 formal warnings.
 
-This counts as sending innapropriate images or text messages in any chat.
+## Spamming
 
-1. Delete their messages.
-2. Give them an [formal warning](moderation-guide.md#punishments).
+Refers to sending the same message repeatedly and flooding the chat. Advertising in chatrooms will also count as such.
 
-### Advertising
+* Step 1: Issue an informal warning.
+* Step 2: Issue a formal warning and mute the user using the `:mute [user] Spamming` command (up to 3 times)
+* Step 3: Server ban the user after reaching 3 formal warnings.
 
-This counts as sending an invite link to a server not associated with [RSA holdings](https://discord.gg/EzCF7RsnMD).
+## Glitching
 
-1. Delete their messages.
-2. Give them an [formal warning](moderation-guide.md#punishments).
+This applies if the user has gained access to a restricted area without permission.
 
-### Distrupting Events
+* Step 1: Reset the user.
+* Step 2: Server ban the user if the behavior continues.
 
-This counts as distrupting events in VC or not following the rules.
+## Exploiting and Hacking
 
-1. Give them an informal warning.
-2. Give them an [formal warning](moderation-guide.md#punishments).
+Using third-party programs to alter the gameplay of your Roblox client is considered hacking.
 
-### Violating the Discord Terms of Service
+* If you suspect or witness hacking or exploiting, please request assistance in the [#staff-assistance](https://discord.com/channels/1188319939719856209/1283071327745609831) channel immediately.
 
-This counts as violating the [Discord Terms of Service](https://discord.com/terms).
+_(Notice: If no one responds within 5 minutes and a serious hacking or exploiting incident occurs, please report it directly to the Developers or Owners by pinging them in the server. You will not face any penalties for doing so.)_
 
-1. Instantly report them to [Discord Support](https://support.discord.com/hc/en-us/requests/new).
+## Violating the Roblox Terms of Use
 
-### Violating the Discord Community Guidelines
+This counts as violating the [Roblox Terms of Use](https://en.help.roblox.com/hc/en-us/articles/115004647846-Roblox-Terms-of-Use).
 
-This counts as violating the [Discord Community Guidelines](https://discord.com/guidelines).
+* Report them immediately to [Roblox Support](https://www.roblox.com/support).
 
-1. Instantly report them to [Discord Support](https://support.discord.com/hc/en-us/requests/new).
+## Violating the Roblox Community Standards
 
+This counts as violating the [Roblox Community Standards](https://en.help.roblox.com/hc/en-us/articles/203313410-Roblox-Community-Standards).
+
+* Report them immediately to [Roblox Support](https://www.roblox.com/support).&#x20;
+
+{% hint style="info" %}
+BloxNShop Limited reserves the right to modify this moderation guide without prior notification.
+{% endhint %}

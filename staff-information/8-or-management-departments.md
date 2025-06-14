@@ -27,7 +27,7 @@ icon: badge-check
 
 ***
 
-### Department Overview
+## Department Overview
 
 {% embed url="https://docs.google.com/spreadsheets/d/1ObCf_rdsmCA9Hq8Ds8O4Kmn5SITXGXn962ucdcgwdss/edit?usp=sharing" %}
 This is a list of all department members.

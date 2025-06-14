@@ -10,7 +10,7 @@ icon: messages
 ### **Greeting**
 
 ```
-Greetings! Welcome to BloxNShop! My name is (Name). Please scan your item and let me know when you're done!
+Greetings! Welcome to BloxNShop! My name is (Name). Please unload your trolley or basket, scan your item and let me know when you're done!
 ```
 
 ### **Price Information:**
