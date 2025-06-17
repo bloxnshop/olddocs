@@ -20,5 +20,5 @@
   * [5.3 | Instructions for Janitor Duty](staff/5-or-instructions-of-duty/5.3-or-instructions-for-janitor-duty.md)
 * [6 | Special Program Guide](staff/6-or-special-program-guide/README.md)
   * [6.1 | Instructions for Fire Guide](staff/6-or-special-program-guide/6.1-or-instructions-for-fire-guide.md)
-* [7 | Rank Structure](staff/7-or-rank-structure.md)
+* [7 | Promotion Guide](staff/7-or-promotion-guide.md)
 * [8 | Management Departments](staff/8-or-management-departments.md)
