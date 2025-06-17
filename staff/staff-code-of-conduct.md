@@ -24,7 +24,7 @@ You must wear the uniform during on duty, any clothing that covers the majority 
 Operational Duties
 
 
-You must not be idle or tabbed out while keeping your lane open. If you need to attend to other matters, please close your current lane.
+You must not be idle or tabbed out while keeping your lane open. If you need to attend to other matters, please close and log off your current lane.
 
 Customer Interaction
 
@@ -36,7 +36,7 @@ Employee Area Protocol
 
 Ensure that the doors to employee-only areas are fully closed before leaving.
 
-## Disruptive Behavior
+## Disruptive Behaviour
 
 You are prohibited from using any means to disrupt the operation of store machines or to disturb customers and staff. This includes interrupting a shift briefing or training session unless you have been given permission to speak.
 

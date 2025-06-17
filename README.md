@@ -34,6 +34,8 @@ At BloxNShop Limited, we have always adhered to the concept of **"Innovation and
 Please contact [@apollotastic ](https://discord.com/users/831763338509549578)if you find any errors or have any questions about this website.
 {% endhint %}
 
-### Get started!
+***
 
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Staff Information</strong></td><td>Information for staff members of BloxNShop.</td><td></td><td></td><td><a href="broken-reference">Broken link</a></td></tr><tr><td><strong>FAQ</strong></td><td>Frequently asked questions.</td><td></td><td></td><td><a href="faq.md">faq.md</a></td></tr></tbody></table>
+## Get started!
+
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Staff Information</strong></td><td>Information for staff members of BloxNShop.</td><td></td><td></td><td><a href="broken-reference">Broken link</a></td></tr><tr><td><strong>FAQ</strong></td><td>Frequently asked questions.</td><td></td><td></td><td><a href="general/faq.md">faq.md</a></td></tr></tbody></table>
