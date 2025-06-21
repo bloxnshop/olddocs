@@ -74,9 +74,11 @@ This applies if the user has gained access to a restricted area without permissi
 
 Using third-party programs to alter the gameplay of your Roblox client is considered hacking.
 
-* If you suspect or witness hacking or exploiting, please request assistance in the [#staff-assistance](https://discord.com/channels/1188319939719856209/1283071327745609831) channel immediately.
+* Step 1: Report the user using the [in-game report function](https://en.help.roblox.com/hc/en-us/articles/203312410-How-to-Report-Rule-Violations).
+* Step 2: Server ban user
+* Step 3: Request game-ban in management portal
 
-_(Notice: If no one responds within 5 minutes and a serious hacking or exploiting incident occurs, please report it directly to the Developers or Owners by pinging them in the server. You will not face any penalties for doing so.)_
+_(Notice: If you don't have admin permission and no management is active, please report it directly to the Developers or Owners by pinging them in the server. You will not face any penalties for doing so.)_
 
 ## Violating the Roblox Terms of Use
 
