@@ -21,4 +21,4 @@
 * [6 | Special Program Guide](staff/6-or-special-program-guide/README.md)
   * [6.1 | Instructions for Fire Guide](staff/6-or-special-program-guide/6.1-or-instructions-for-fire-guide.md)
 * [7 | Promotion Guide](staff/7-or-promotion-guide.md)
-* [8 | Management Departments](staff/8-or-management-departments.md)
+* [8 | Corporate Departments](staff/8-or-corporate-departments.md)
