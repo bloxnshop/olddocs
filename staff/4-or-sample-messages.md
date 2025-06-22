@@ -63,7 +63,7 @@ Please unequip your product/card and click on the green rectangle/hold E when th
 ### When a customer is Stealing
 
 ```
-Sir/Madam, you are being cuffed because you have stolen [amount] items from the store.
+Sir/Madam, you are being cuffed because you have stolen [number] items from the store.
 Please pay before you leave the store.
 ```
 
