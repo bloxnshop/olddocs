@@ -10,7 +10,7 @@ icon: messages
 ### **Greeting**
 
 ```
-Greetings! Welcome to BloxNShop! My name is (Name). Please unload your trolley or basket, scan your item and let me know when you're done!
+Greetings! Welcome to BloxNShop! My name is [Name]. Please unload your trolley or basket, scan your item and let me know when you're done!
 ```
 
 ### **Price Information:**
@@ -58,12 +58,29 @@ Please unequip your product/card and click on the green rectangle/hold E when th
 
 ***
 
+## For Security Duty
+
+### When a customer is Stealing
+
+```
+Sir/Madam, you are being cuffed because you have stolen [amount] items from the store.
+Please pay before you leave the store.
+```
+
+### If Theft Occurs Again
+
+```
+Sir/Madam, please stop stealing, or you will receive a warning.
+```
+
+***
+
 ## Useful Messages
 
 ### **When customer request any assist**
 
 ```
-Hello, my name is (Name). How can I assist you today?
+Hello, my name is [Name]. How can I assist you today?
 ```
 
 ### **When customer Ask: how to become a Staff Member**
@@ -80,7 +97,7 @@ Or simply you could buy a rank!
 This is a supermarket game! To make a purchase, simply press "E" on the items you want!
 ```
 
-### **When customer Ask: What is BloxNShop?**
+### **When customer ask: What is BloxNShop?**
 
 ```
 BloxNShop is the first and the only supermarket in the HK Roblox community, offering a wide variety of high-quality products and services all in one convenient location!
@@ -91,10 +108,3 @@ BloxNShop is the first and the only supermarket in the HK Roblox community, offe
 ```
 Join our DC Server for more information. Link in the game description!
 ```
-
-
-
-
-
-
-

@@ -42,7 +42,7 @@ You are prohibited from using any means to disrupt the operation of store machin
 
 ## Warning Policy
 
-All staff members have the authority to warn customers who violate the game moderation rules. It is essential to adhere to the Moderation Guide to issue a warning or a server ban (for Management+ only). If you issue a warning or a ban to a customer without a clear reason, or if it is done intentionally, you may receive a warning or face being blacklisted, depending on the severity of the action.
+All staff members have the authority to warn customers who violate the game moderation rules. It is essential to adhere to the Moderation Guide to issue a warning or a server ban (for Management+ only). If you issue a warning or a ban to a customer without a clear reason, or if it is done intentionally, you may receive a warning or face being demotion or blacklisted, depending on the severity of the action.
 
 ***
 

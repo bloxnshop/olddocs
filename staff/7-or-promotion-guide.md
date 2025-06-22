@@ -38,6 +38,10 @@ To promote to Management Intern, an exam is required. Please join our [Discord](
 * 5 | Senior Store Colleagues → \[Earn <mark style="color:blue;">800 points</mark> to rank up]
 * 6 | Management Intern → \[Earn <mark style="color:blue;">1400 points</mark> to rank up]&#x20;
 
+### Additional Rank
+
+* Security → \[Earn <mark style="color:orange;">300 points</mark> to rank up]&#x20;
+
 ### Management
 
 * &#x20;7 | Junior Management → \[<mark style="color:green;">Complete internship</mark> to rank up]
