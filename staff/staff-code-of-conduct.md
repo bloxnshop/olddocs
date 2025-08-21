@@ -34,7 +34,7 @@ Respect for customers is mandatory at all times. You must address every customer
 Employee Area Protocol
 
 
-Ensure that the doors to employee-only areas are fully closed before leaving.
+Employee-area doors can be put on hold by management members using the universal door key. If they are not put on hold, employees should use their staff card to open them. Customers are not permitted past staff doors unless permission has been given by a Corporate+ member.
 
 ## Disruptive Behaviour
 
