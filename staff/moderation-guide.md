@@ -50,7 +50,7 @@ Covers harassment or any inappropriate actions towards other customers/staffs.
 
 Includes any clothing that contains inappropriate images, slurs, or violates [Roblox Terms of Use](https://en.help.roblox.com/hc/en-us/articles/115004647846-Roblox-Terms-of-Use).
 
-* Step 1: Report the user using the [in-game avatar report function](https://en.help.roblox.com/hc/en-us/articles/203312410-How-to-Report-Rule-Violations).
+* Step 1: Report the user using the [in-game avatar report function](moderation-guide.md#in-game-reports).
 * Step 2: Instruct them to change their clothes.
 * Step 3: Issue a formal warning (up to 3 times).
 * Step 4: Server ban the user after reaching 3 formal warnings.
@@ -74,13 +74,13 @@ This applies if the user has gained access to a restricted area without permissi
 
 This applies if the user is sending innapopriate words and therefore bypassing the Roblox chat filter.
 
-* Step 1: Report the user using the [chat report function](https://i.imgur.com/pynUONc.mp4).
+* Step 1: Report the user using the [chat report function](moderation-guide.md#chat-reports).
 
 ## Exploiting and Hacking
 
 Using third-party programs to alter the gameplay of your Roblox client is considered hacking.
 
-* Step 1: Report the user using the [in-game report function](https://en.help.roblox.com/hc/en-us/articles/203312410-How-to-Report-Rule-Violations).
+* Step 1: Report the user using the [in-game report function](moderation-guide.md#in-game-reports).
 * Step 2: Server ban user
 * Step 3: Request game-ban in management portal
 
@@ -90,13 +90,13 @@ _(Notice: If you don't have admin permission and no management is active, please
 
 This counts as violating the [Roblox Terms of Use](https://en.help.roblox.com/hc/en-us/articles/115004647846-Roblox-Terms-of-Use).
 
-* Report them immediately to [Roblox Support](https://www.roblox.com/support).
+* Report them immediately to [Roblox Support](moderation-guide.md#website-reports).
 
 ## Violating the Roblox Community Standards
 
 This counts as violating the [Roblox Community Standards](https://en.help.roblox.com/hc/en-us/articles/203313410-Roblox-Community-Standards).
 
-* Report them immediately to [Roblox Support](https://www.roblox.com/support).&#x20;
+* Report them immediately to [Roblox Support](moderation-guide.md#website-reports).&#x20;
 
 ## Guide to reporting on Roblox
 
